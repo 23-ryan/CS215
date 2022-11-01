@@ -1,0 +1,1 @@
+Percentage error in variance:  -0.16004009999858598 %

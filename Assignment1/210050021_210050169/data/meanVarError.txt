@@ -1,0 +1,2 @@
+Error in mean:  0.0004009999999999981
+Error in variance:  -1.6004009999858598e-06
